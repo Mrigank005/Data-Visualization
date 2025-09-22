@@ -1,4 +1,4 @@
-# Data-Visualization
+# Data-Analysis-and-Visualization
 
 This repository contains data analysis and visualization projects using Python. It focuses on exploratory data analysis (EDA) techniques applied to popular datasets, including house price data and the Iris flower dataset. The projects demonstrate data loading, cleaning, statistical analysis, correlation exploration, outlier detection, and various visualizations using libraries like Pandas, NumPy, Matplotlib, and Seaborn.
 
